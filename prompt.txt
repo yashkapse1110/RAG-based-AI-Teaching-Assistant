@@ -1,0 +1,6 @@
+I am teaching Python Basic in my Python course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"fourth","number":"4","start":324.96,"end":326.96,"text":" And when a string is added in Python,"},{"title":"fourth","number":"4","start":322.96,"end":324.96,"text":" Y will be a string."},{"title":"fourth","number":"4","start":370.96,"end":372.96,"text":" As a string."}]
+---------------------------------
+"string in python"
+User asked this question related to the video chunks, you have to answer only video the video number and Time stamp in minute and no other text

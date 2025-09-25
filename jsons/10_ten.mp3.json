@@ -1,0 +1,972 @@
+{
+    "chunks": [
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " Welcome back to 100 days of code"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 3.0,
+            "end": 6.0,
+            "text": " Today I want to tell you a story of my personal life"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 6.0,
+            "end": 10.0,
+            "text": " When I was in 2nd year of college, I knew C++ very well"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 10.0,
+            "end": 14.0,
+            "text": " I was doing coding, I knew coding, I knew HTML"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 14.0,
+            "end": 18.0,
+            "text": " But I was not able to work in any industry"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 18.0,
+            "end": 21.0,
+            "text": " May be I was not able to get any C++ project"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 21.0,
+            "end": 24.0,
+            "text": " Now I am not saying that C++ is a bad programming language"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 24.0,
+            "end": 28.0,
+            "text": " I have made many conditional related programs with the help of C++"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 28.0,
+            "end": 31.0,
+            "text": " I have done many other things like making a calculator"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 31.0,
+            "end": 34.0,
+            "text": " But I was not able to work in any industry"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 34.0,
+            "end": 42.0,
+            "text": " When I was introduced to Python, I did web scrapping, made GUIs, made PLAS applications and did a lot of freelancing"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 42.0,
+            "end": 48.0,
+            "text": " I consider Python as a language which taught me the use of programming"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 48.0,
+            "end": 55.0,
+            "text": " Why we give so much value to programming in industry and why programming is used so much in industry"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 55.0,
+            "end": 61.0,
+            "text": " In today's video, I am going to show you some programs which you will enjoy watching"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 61.0,
+            "end": 64.0,
+            "text": " You will say that it is fun to watch these programs"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 64.0,
+            "end": 68.0,
+            "text": " Because after watching these programs, you will understand the actual use of programming"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 68.0,
+            "end": 70.0,
+            "text": " Why programming is used"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 70.0,
+            "end": 75.0,
+            "text": " I will tell you 5 programs today and you will enjoy watching them"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 75.0,
+            "end": 77.0,
+            "text": " Some of them are very amazing games"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 77.0,
+            "end": 81.0,
+            "text": " There is a Jarvis virtual assistant which works on your map"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 81.0,
+            "end": 84.0,
+            "text": " It shows you what you say and what commands you give"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 84.0,
+            "end": 89.0,
+            "text": " The biggest reason to make this course is that there are many new things in Python"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 89.0,
+            "end": 93.0,
+            "text": " There are many new approaches which I want to tell you"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 93.0,
+            "end": 96.0,
+            "text": " This brand new course will touch all those things"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 96.0,
+            "end": 98.0,
+            "text": " For example, Valorous operator has come in Python"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 98.0,
+            "end": 100.0,
+            "text": " There are many other additions"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 100.0,
+            "end": 102.0,
+            "text": " There are many easy ways to do things"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 102.0,
+            "end": 105.0,
+            "text": " We will cover all these things in this course"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 105.0,
+            "end": 113.0,
+            "text": " I will teach you Python so well that you can run Python while programming a snake on your map"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 113.0,
+            "end": 115.0,
+            "text": " You can do whatever you want"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 115.0,
+            "end": 121.0,
+            "text": " Let's go to the showcase and I will show you my programs which I made with the help of Python"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 121.0,
+            "end": 122.0,
+            "text": " Let's get started"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 131.0,
+            "end": 136.0,
+            "text": " The first program I want to show you is Jarvis virtual assistant"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 136.0,
+            "end": 143.0,
+            "text": " This program takes your commands and after taking your commands, it does some work"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 156.0,
+            "end": 159.0,
+            "text": " As you can see, it has opened YouTube"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 159.0,
+            "end": 161.0,
+            "text": " It is a very cool program"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 161.0,
+            "end": 164.0,
+            "text": " You give a command and it completes the task"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 165.0,
+            "end": 171.0,
+            "text": " The next program I want to show you is Love calculator"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 171.0,
+            "end": 176.0,
+            "text": " This is an amazing calculator which shows how much love there is between two people"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 176.0,
+            "end": 182.0,
+            "text": " Obviously, it will not accurately show how much love there is between you and your partner"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 182.0,
+            "end": 184.0,
+            "text": " You all know that"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 184.0,
+            "end": 188.0,
+            "text": " But we made this program using a random module in a fun way"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 188.0,
+            "end": 192.0,
+            "text": " If we put two names, it will show the love percentage"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 192.0,
+            "end": 195.0,
+            "text": " Let's try it out"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 195.0,
+            "end": 199.0,
+            "text": " I will put Harry in the name and I will put Payal in the name of the partner"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 199.0,
+            "end": 202.0,
+            "text": " I calculate 97%"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 202.0,
+            "end": 203.0,
+            "text": " Great"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 203.0,
+            "end": 206.0,
+            "text": " Now, let's say I write here"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 206.0,
+            "end": 209.0,
+            "text": " Let's say I write Sanskriti here"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 209.0,
+            "end": 212.0,
+            "text": " So, 0, 3, 3%"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 212.0,
+            "end": 215.0,
+            "text": " It means I should stay away from girls named Sanskriti"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 215.0,
+            "end": 217.0,
+            "text": " Boys named Harry"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 217.0,
+            "end": 220.0,
+            "text": " This is a very fun calculator"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 220.0,
+            "end": 222.0,
+            "text": " I hope you will enjoy running it"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 222.0,
+            "end": 226.0,
+            "text": " The next program I want to show you is face recognition program"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 226.0,
+            "end": 229.0,
+            "text": " Which uses the Harkascade algorithm"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 229.0,
+            "end": 232.0,
+            "text": " It tells in an image where the face is"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 232.0,
+            "end": 235.0,
+            "text": " Face detection algorithm"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 235.0,
+            "end": 238.0,
+            "text": " You will see in Robert Downey Jr's face"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 238.0,
+            "end": 241.0,
+            "text": " It will tell where the actual face is hidden"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 241.0,
+            "end": 243.0,
+            "text": " It will tell where the face is hidden in the picture"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 243.0,
+            "end": 245.0,
+            "text": " I run it for 1.jpg file"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 245.0,
+            "end": 248.0,
+            "text": " You can run it on your favorite file"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 248.0,
+            "end": 251.0,
+            "text": " I run it here"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 251.0,
+            "end": 254.0,
+            "text": " After running, it has detected all the faces"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 254.0,
+            "end": 257.0,
+            "text": " From this image"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 257.0,
+            "end": 260.0,
+            "text": " I can run it for different images"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 260.0,
+            "end": 263.0,
+            "text": " It is not necessary that it will work for one image"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 263.0,
+            "end": 266.0,
+            "text": " It is working for different images"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 266.0,
+            "end": 269.0,
+            "text": " It was a very fun program"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 269.0,
+            "end": 272.0,
+            "text": " The next project is Flappy Bird game"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 272.0,
+            "end": 275.0,
+            "text": " This is a new game"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 275.0,
+            "end": 278.0,
+            "text": " We play a lot on our phones"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 278.0,
+            "end": 281.0,
+            "text": " But here you can play a game"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 281.0,
+            "end": 284.0,
+            "text": " Made by your hands"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 284.0,
+            "end": 287.0,
+            "text": " Flappy Bird"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 287.0,
+            "end": 290.0,
+            "text": " I am playing it"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 290.0,
+            "end": 293.0,
+            "text": " It will be fun to play"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 293.0,
+            "end": 296.0,
+            "text": " Last but not the least"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 296.0,
+            "end": 299.0,
+            "text": " I have made many other projects"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 299.0,
+            "end": 302.0,
+            "text": " How to make a snake game in python"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 302.0,
+            "end": 305.0,
+            "text": " I will show you"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 305.0,
+            "end": 308.0,
+            "text": " You can see the snake is black and food is red"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 308.0,
+            "end": 311.0,
+            "text": " I know it can be done better"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 311.0,
+            "end": 314.0,
+            "text": " I made logic here"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 314.0,
+            "end": 317.0,
+            "text": " I will break the high score of 90"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 317.0,
+            "end": 320.0,
+            "text": " I will break the high score of 90"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 320.0,
+            "end": 323.0,
+            "text": " I can make a lot of scores"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 323.0,
+            "end": 326.0,
+            "text": " I am a very hardcore gamer"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 326.0,
+            "end": 329.0,
+            "text": " I have made a score of 90"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 329.0,
+            "end": 332.0,
+            "text": " I don't want to get out"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 332.0,
+            "end": 335.0,
+            "text": " I made a score of 100"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 335.0,
+            "end": 338.0,
+            "text": " It is fun to play a game made by your hands"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 338.0,
+            "end": 341.0,
+            "text": " I just want to tell you"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 341.0,
+            "end": 344.0,
+            "text": " In the coming videos"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 344.0,
+            "end": 347.0,
+            "text": " I will tell you"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 347.0,
+            "end": 350.0,
+            "text": " It will be fun"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 350.0,
+            "end": 353.0,
+            "text": " We will make many projects"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 353.0,
+            "end": 356.0,
+            "text": " I will tell you"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 356.0,
+            "end": 359.0,
+            "text": " I will tell you"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 359.0,
+            "end": 362.0,
+            "text": " I want you to run all these codes"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 362.0,
+            "end": 365.0,
+            "text": " I want you to run all these codes"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 365.0,
+            "end": 368.0,
+            "text": " Run them"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 368.0,
+            "end": 371.0,
+            "text": " All the modules I have imported"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 371.0,
+            "end": 374.0,
+            "text": " Install them"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 374.0,
+            "end": 377.0,
+            "text": " Install them"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 377.0,
+            "end": 380.0,
+            "text": " Install them"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 380.0,
+            "end": 383.0,
+            "text": " I hope you will not have any problem"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 383.0,
+            "end": 386.0,
+            "text": " I hope you will not have any problem"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 386.0,
+            "end": 389.0,
+            "text": " Come back to this program"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 389.0,
+            "end": 392.0,
+            "text": " Come back to this program"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 392.0,
+            "end": 395.0,
+            "text": " Can I fix it?"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 395.0,
+            "end": 398.0,
+            "text": " You have to do everything in this video"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 398.0,
+            "end": 401.0,
+            "text": " I hope you will enjoy"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 401.0,
+            "end": 404.0,
+            "text": " I hope you will enjoy"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 404.0,
+            "end": 407.0,
+            "text": " You will learn more"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 407.0,
+            "end": 410.0,
+            "text": " You will learn more"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 410.0,
+            "end": 413.0,
+            "text": " I am giving you all programs"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 413.0,
+            "end": 416.0,
+            "text": " All programs"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 416.0,
+            "end": 419.0,
+            "text": " All programs"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 419.0,
+            "end": 422.0,
+            "text": " All programs"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 422.0,
+            "end": 425.0,
+            "text": " Is using windows"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 425.0,
+            "end": 428.0,
+            "text": " Is using windows"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 428.0,
+            "end": 431.0,
+            "text": " Is using windows"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 431.0,
+            "end": 434.0,
+            "text": " Is using windows"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 434.0,
+            "end": 439.0,
+            "text": " you will be able to run all these programs and you will also enjoy"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 439.0,
+            "end": 444.0,
+            "text": " but don't try to recreate them now, don't think that I have learned so much python"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 444.0,
+            "end": 448.0,
+            "text": " now I will make them from scratch, I will change these things, if you do this"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 448.0,
+            "end": 452.0,
+            "text": " then you will get a little bit of frustration because you will try to do what you don't know"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 452.0,
+            "end": 457.0,
+            "text": " so that's not a good idea, so we will make all these things, I will make more dangerous programs"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 457.0,
+            "end": 463.0,
+            "text": " than this, so you just give me a little time, continue this 100 days of code journey"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 463.0,
+            "end": 469.0,
+            "text": " and you will also enjoy, so you will get this link in the description"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 469.0,
+            "end": 475.0,
+            "text": " and one more thing I would like to tell you is that if you have not accessed the python 100 days of code"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 475.0,
+            "end": 480.0,
+            "text": " playlist then access it now because all the videos will be in this playlist"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 480.0,
+            "end": 486.0,
+            "text": " and if you do not bookmark this playlist and save it then you may miss some days"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 486.0,
+            "end": 491.0,
+            "text": " I don't want you to miss any day, bookmark this playlist and in the coming days"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 491.0,
+            "end": 496.0,
+            "text": " we are going to do a lot of things, till then you take care of yourself"
+        },
+        {
+            "number": "10",
+            "title": "ten",
+            "start": 496.0,
+            "end": 499.0,
+            "text": " and I will see you next time"
+        }
+    ],
+    
+    "text": " Welcome back to 100 days of code Today I want to tell you a story of my personal life When I was in 2nd year of college, I knew C++ very well I was doing coding, I knew coding, I knew HTML But I was not able to work in any industry May be I was not able to get any C++ project Now I am not saying that C++ is a bad programming language I have made many conditional related programs with the help of C++ I have done many other things like making a calculator But I was not able to work in any industry When I was introduced to Python, I did web scrapping, made GUIs, made PLAS applications and did a lot of freelancing I consider Python as a language which taught me the use of programming Why we give so much value to programming in industry and why programming is used so much in industry In today's video, I am going to show you some programs which you will enjoy watching You will say that it is fun to watch these programs Because after watching these programs, you will understand the actual use of programming Why programming is used I will tell you 5 programs today and you will enjoy watching them Some of them are very amazing games There is a Jarvis virtual assistant which works on your map It shows you what you say and what commands you give The biggest reason to make this course is that there are many new things in Python There are many new approaches which I want to tell you This brand new course will touch all those things For example, Valorous operator has come in Python There are many other additions There are many easy ways to do things We will cover all these things in this course I will teach you Python so well that you can run Python while programming a snake on your map You can do whatever you want Let's go to the showcase and I will show you my programs which I made with the help of Python Let's get started The first program I want to show you is Jarvis virtual assistant This program takes your commands and after taking your commands, it does some work As you can see, it has opened YouTube It is a very cool program You give a command and it completes the task The next program I want to show you is Love calculator This is an amazing calculator which shows how much love there is between two people Obviously, it will not accurately show how much love there is between you and your partner You all know that But we made this program using a random module in a fun way If we put two names, it will show the love percentage Let's try it out I will put Harry in the name and I will put Payal in the name of the partner I calculate 97% Great Now, let's say I write here Let's say I write Sanskriti here So, 0, 3, 3% It means I should stay away from girls named Sanskriti Boys named Harry This is a very fun calculator I hope you will enjoy running it The next program I want to show you is face recognition program Which uses the Harkascade algorithm It tells in an image where the face is Face detection algorithm You will see in Robert Downey Jr's face It will tell where the actual face is hidden It will tell where the face is hidden in the picture I run it for 1.jpg file You can run it on your favorite file I run it here After running, it has detected all the faces From this image I can run it for different images It is not necessary that it will work for one image It is working for different images It was a very fun program The next project is Flappy Bird game This is a new game We play a lot on our phones But here you can play a game Made by your hands Flappy Bird I am playing it It will be fun to play Last but not the least I have made many other projects How to make a snake game in python I will show you You can see the snake is black and food is red I know it can be done better I made logic here I will break the high score of 90 I will break the high score of 90 I can make a lot of scores I am a very hardcore gamer I have made a score of 90 I don't want to get out I made a score of 100 It is fun to play a game made by your hands I just want to tell you In the coming videos I will tell you It will be fun We will make many projects I will tell you I will tell you I want you to run all these codes I want you to run all these codes Run them All the modules I have imported Install them Install them Install them I hope you will not have any problem I hope you will not have any problem Come back to this program Come back to this program Can I fix it? You have to do everything in this video I hope you will enjoy I hope you will enjoy You will learn more You will learn more I am giving you all programs All programs All programs All programs Is using windows Is using windows Is using windows Is using windows you will be able to run all these programs and you will also enjoy but don't try to recreate them now, don't think that I have learned so much python now I will make them from scratch, I will change these things, if you do this then you will get a little bit of frustration because you will try to do what you don't know so that's not a good idea, so we will make all these things, I will make more dangerous programs than this, so you just give me a little time, continue this 100 days of code journey and you will also enjoy, so you will get this link in the description and one more thing I would like to tell you is that if you have not accessed the python 100 days of code playlist then access it now because all the videos will be in this playlist and if you do not bookmark this playlist and save it then you may miss some days I don't want you to miss any day, bookmark this playlist and in the coming days we are going to do a lot of things, till then you take care of yourself and I will see you next time"
+}

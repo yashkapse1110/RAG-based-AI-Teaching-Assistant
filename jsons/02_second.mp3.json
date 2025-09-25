@@ -1,0 +1,1951 @@
+{
+    "chunks": [
+        {
+            "number": "2",
+            "title": "second",
+            "start": 0.0,
+            "end": 2.88,
+            "text": " If I want to know if you are a modern Python developer or not,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 2.88,
+            "end": 6.16,
+            "text": " then I will ask you about the match case statement first."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 6.16,
+            "end": 9.4,
+            "text": " This is a new addition in Python which has been 3.10 onwards."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 9.4,
+            "end": 13.52,
+            "text": " And match case statements make Python programming very strong."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 13.52,
+            "end": 15.280000000000001,
+            "text": " We will go to our computer screen and see"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 15.280000000000001,
+            "end": 19.96,
+            "text": " what is the match case feature that was brought to improve Python."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 19.96,
+            "end": 21.04,
+            "text": " How to use it."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 21.04,
+            "end": 22.72,
+            "text": " Let's get started."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 31.0,
+            "end": 35.6,
+            "text": " So I have come to my computer screen and I have made a repl for match case."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 35.6,
+            "end": 40.68,
+            "text": " As you can see, the match case is a new addition in Python 3.10."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 40.68,
+            "end": 42.0,
+            "text": " I want to tell you this."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 42.0,
+            "end": 46.24,
+            "text": " So if you use Python's default repl in replit as of now,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 46.24,
+            "end": 48.0,
+            "text": " as of recording this video,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 48.0,
+            "end": 50.92,
+            "text": " obviously, the Python version will be updated with time in replit too."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 50.92,
+            "end": 54.32,
+            "text": " But if you see the Python version in any of your repl,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 54.32,
+            "end": 57.400000000000006,
+            "text": " I will run it in a shell in my old repl."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 57.4,
+            "end": 60.96,
+            "text": " I will run a program in the shell of the day 13 repl."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 60.96,
+            "end": 65.36,
+            "text": " I will only show you by writing Python and you will know that it is using Python 3.8."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 65.36,
+            "end": 68.28,
+            "text": " But here we need Python 3.10."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 68.28,
+            "end": 71.8,
+            "text": " So what you have to do is, I am just showing you a demo repl."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 71.8,
+            "end": 74.08,
+            "text": " I will make it outside."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 74.08,
+            "end": 75.8,
+            "text": " I will keep its name as Python demo."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 75.8,
+            "end": 79.4,
+            "text": " If you search for Python 3.10,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 79.4,
+            "end": 81.88,
+            "text": " Python 3.10 should come."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 81.88,
+            "end": 82.8,
+            "text": " It has come."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 82.8,
+            "end": 83.96000000000001,
+            "text": " Coding cactus."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 83.96000000000001,
+            "end": 86.16,
+            "text": " It is using Python 3.10."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 86.16,
+            "end": 90.56,
+            "text": " I will write Python 10 and write demo."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 90.56,
+            "end": 93.36,
+            "text": " I will make this repl."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 93.36,
+            "end": 95.44,
+            "text": " I will make this repl public."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 95.44,
+            "end": 98.44,
+            "text": " I clicked on create repl."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 98.44,
+            "end": 101.44,
+            "text": " And now you see here,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 101.44,
+            "end": 105.12,
+            "text": " as soon as I made my repl,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 105.12,
+            "end": 106.64,
+            "text": " I will run this program."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 106.64,
+            "end": 108.67999999999999,
+            "text": " It has a program written in it that will tell the version of Python."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 108.67999999999999,
+            "end": 111.75999999999999,
+            "text": " Just like this, I have made a program for match case day 16."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 111.75999999999999,
+            "end": 115.64,
+            "text": " If you are in VS code, then you do not need to worry about this."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 116.12,
+            "end": 117.32000000000001,
+            "text": " I just wanted to tell you."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 117.32000000000001,
+            "end": 122.32,
+            "text": " Now see if I come here in shell and write Python,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 122.32,
+            "end": 124.84,
+            "text": " then see Python 3.8.12."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 124.84,
+            "end": 128.68,
+            "text": " Python 3.8.12 has come here."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 128.68,
+            "end": 130.52,
+            "text": " Now what will happen is,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 130.52,
+            "end": 131.72,
+            "text": " I will close this."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 131.72,
+            "end": 134.48,
+            "text": " Now Python 16, sorry,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 134.48,
+            "end": 137.84,
+            "text": " we are using Python 3.10 in day 16."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 137.84,
+            "end": 138.76,
+            "text": " You can see here."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 138.76,
+            "end": 140.04,
+            "text": " But I don't want to write this program."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 140.04,
+            "end": 143.2,
+            "text": " I obviously want to tell you something else through this video,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 143.2,
+            "end": 144.56,
+            "text": " which is the match case statement."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 144.56,
+            "end": 147.84,
+            "text": " If you are coming from C, C++ or Java language,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 147.84,
+            "end": 150.92000000000002,
+            "text": " then you will know that there are switch case statements in it."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 150.92000000000002,
+            "end": 151.52,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 151.52,
+            "end": 153.08,
+            "text": " What are switch case statements?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 153.08,
+            "end": 154.0,
+            "text": " Basically nothing."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 154.0,
+            "end": 156.8,
+            "text": " Switch case statement means that you have a variable."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 156.8,
+            "end": 158.76,
+            "text": " You are matching that variable basically."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 158.76,
+            "end": 160.8,
+            "text": " That is, if the value of the variable is 17,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 160.8,
+            "end": 161.4,
+            "text": " then what to do?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 161.4,
+            "end": 162.8,
+            "text": " What to do if it is 18?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 162.8,
+            "end": 164.88,
+            "text": " Assume that you have 4 cases."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 164.88,
+            "end": 165.88,
+            "text": " For example,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 165.88,
+            "end": 167.88,
+            "text": " that you ask someone,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 167.88,
+            "end": 169.0,
+            "text": " do you want to vote?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 169.0,
+            "end": 169.56,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 169.56,
+            "end": 171.4,
+            "text": " Do you want to cast your vote?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 171.4,
+            "end": 172.44,
+            "text": " Now there are two answers to this."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 172.44,
+            "end": 173.52,
+            "text": " Either yes or no."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 173.52,
+            "end": 174.84,
+            "text": " If he is casting his vote,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 174.84,
+            "end": 176.88000000000002,
+            "text": " then you will ask him that who do you want to vote for?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 176.88000000000002,
+            "end": 178.0,
+            "text": " There are four options."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 178.0,
+            "end": 179.88000000000002,
+            "text": " Option 1, option 2, option 3, option 4."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 179.88000000000002,
+            "end": 181.12,
+            "text": " There is no option 5."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 181.12,
+            "end": 183.56,
+            "text": " So according to the option he chooses out of these four,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 183.56,
+            "end": 185.48000000000002,
+            "text": " we work according to that."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 185.48000000000002,
+            "end": 185.96,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 185.96,
+            "end": 188.84,
+            "text": " So I will show you the example program very quickly."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 188.84,
+            "end": 190.24,
+            "text": " You will understand everything."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 190.24,
+            "end": 190.84,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 190.84,
+            "end": 193.88,
+            "text": " Because I don't want to read out all these things here."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 193.88,
+            "end": 194.20000000000002,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 194.20000000000002,
+            "end": 195.88,
+            "text": " First I want to show you the program"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 195.88,
+            "end": 197.32000000000002,
+            "text": " so that you know exactly."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 197.32000000000002,
+            "end": 198.88,
+            "text": " Then things will be clear themselves."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 198.88,
+            "end": 200.88,
+            "text": " So here you see x is equal to 4."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 200.88,
+            "end": 203.08,
+            "text": " x is a variable which I want to match."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 203.12,
+            "end": 204.24,
+            "text": " I said match x."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 204.24,
+            "end": 205.36,
+            "text": " If x is 0,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 205.36,
+            "end": 206.28,
+            "text": " if case is 0,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 206.28,
+            "end": 207.64000000000001,
+            "text": " then print this."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 207.64000000000001,
+            "end": 208.88000000000002,
+            "text": " If case is 4,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 208.88000000000002,
+            "end": 210.44000000000003,
+            "text": " now I will keep it simplified."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 210.44000000000003,
+            "end": 210.68,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 210.68,
+            "end": 211.24,
+            "text": " If case is 4,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 211.24,
+            "end": 212.36,
+            "text": " then print this."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 212.36,
+            "end": 213.04000000000002,
+            "text": " Case is 4."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 213.04000000000002,
+            "end": 214.8,
+            "text": " I am making the program a little simple."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 214.8,
+            "end": 216.4,
+            "text": " And if it is underscore,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 216.4,
+            "end": 218.36,
+            "text": " underscore is used for default case,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 218.36,
+            "end": 219.32000000000002,
+            "text": " then we will do this."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 219.32000000000002,
+            "end": 219.84,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 219.84,
+            "end": 222.28,
+            "text": " I will erase it here."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 222.28,
+            "end": 222.68,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 222.68,
+            "end": 223.88000000000002,
+            "text": " I will erase it like this."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 223.88000000000002,
+            "end": 225.48000000000002,
+            "text": " I will keep only one default case."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 225.48000000000002,
+            "end": 225.96,
+            "text": " And you see,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 225.96,
+            "end": 227.64000000000001,
+            "text": " as soon as I run this program,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 227.64000000000001,
+            "end": 229.48000000000002,
+            "text": " because x is 4,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 229.48000000000002,
+            "end": 231.20000000000002,
+            "text": " here case is 4."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 231.20000000000002,
+            "end": 231.48000000000002,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 231.48,
+            "end": 233.32,
+            "text": " Now I will do one thing here."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 233.32,
+            "end": 234.51999999999998,
+            "text": " I will write int input"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 234.51999999999998,
+            "end": 235.48,
+            "text": " and I will write here"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 235.48,
+            "end": 237.6,
+            "text": " enter the value of x."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 237.6,
+            "end": 238.35999999999999,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 238.35999999999999,
+            "end": 239.64,
+            "text": " I will run."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 239.64,
+            "end": 240.23999999999998,
+            "text": " And you see,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 240.23999999999998,
+            "end": 241.79999999999998,
+            "text": " you will be asked to enter the value of x."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 241.79999999999998,
+            "end": 243.28,
+            "text": " Suppose you wrote 5."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 243.28,
+            "end": 243.92,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 243.92,
+            "end": 245.72,
+            "text": " What I will do here is that"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 245.72,
+            "end": 246.72,
+            "text": " yes,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 246.72,
+            "end": 247.35999999999999,
+            "text": " I will write 5,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 247.35999999999999,
+            "end": 249.44,
+            "text": " so it will go to the default case."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 249.44,
+            "end": 251.6,
+            "text": " In fact, it printed 5."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 251.6,
+            "end": 252.79999999999998,
+            "text": " Because in the default case,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 252.79999999999998,
+            "end": 255.32,
+            "text": " we are printing the value of x."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 255.32,
+            "end": 256.44,
+            "text": " Now if I run this"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 256.44,
+            "end": 258.12,
+            "text": " and make the value 0."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 258.12,
+            "end": 258.52,
+            "text": " 0."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 258.52,
+            "end": 260.08,
+            "text": " Yes."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 260.08,
+            "end": 260.52,
+            "text": " Then what will happen?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 260.52,
+            "end": 261.08,
+            "text": " x is 0."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 261.08,
+            "end": 262.15999999999997,
+            "text": " This case is matched."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 262.15999999999997,
+            "end": 262.68,
+            "text": " So in this way,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 262.68,
+            "end": 264.24,
+            "text": " we can match cases."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 264.24,
+            "end": 265.52,
+            "text": " There is a catch here"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 265.52,
+            "end": 267.2,
+            "text": " about which I would like to talk."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 267.2,
+            "end": 268.35999999999996,
+            "text": " That catch is that"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 268.35999999999996,
+            "end": 270.76,
+            "text": " if you are coming from a language like C, C++,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 270.76,
+            "end": 272.71999999999997,
+            "text": " if you are coming from a language like C, C++,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 272.71999999999997,
+            "end": 274.59999999999997,
+            "text": " then you should know that"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 274.59999999999997,
+            "end": 276.59999999999997,
+            "text": " there is a break statement."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 276.59999999999997,
+            "end": 277.0,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 277.0,
+            "end": 279.96,
+            "text": " And if you have matched any case in that case,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 279.96,
+            "end": 282.08,
+            "text": " then you have to apply a break statement."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 282.08,
+            "end": 283.28,
+            "text": " If you are coming from C, C++,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 283.28,
+            "end": 284.15999999999997,
+            "text": " then I will tell you."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 284.15999999999997,
+            "end": 285.28,
+            "text": " You will also understand about this."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 285.28,
+            "end": 285.96,
+            "text": " And if you are not coming,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 285.96,
+            "end": 286.59999999999997,
+            "text": " then there is no tension"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 286.59999999999997,
+            "end": 287.88,
+            "text": " if your Python is the first language"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 287.88,
+            "end": 289.71999999999997,
+            "text": " which is also here for most of the people."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 289.76000000000005,
+            "end": 290.40000000000003,
+            "text": " By any chance,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 290.40000000000003,
+            "end": 292.04,
+            "text": " you have learned C, C, C++,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 292.04,
+            "end": 293.44000000000005,
+            "text": " then you keep in mind"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 293.44000000000005,
+            "end": 296.16,
+            "text": " that it is not necessary to use break statement here."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 296.16,
+            "end": 298.8,
+            "text": " There you have to use break statement."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 298.8,
+            "end": 300.40000000000003,
+            "text": " That is, if there are four cases,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 300.40000000000003,
+            "end": 302.40000000000003,
+            "text": " case 1, case 2, case 3, case 4,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 302.40000000000003,
+            "end": 303.48,
+            "text": " then if case 3 is matching,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 303.48,
+            "end": 305.0,
+            "text": " then case 4 will also match."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 305.0,
+            "end": 308.08000000000004,
+            "text": " The code inside case 4 will also run."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 308.08000000000004,
+            "end": 309.56,
+            "text": " If you have applied a break in case 3,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 309.56,
+            "end": 310.52000000000004,
+            "text": " then it will not happen."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 310.52000000000004,
+            "end": 311.6,
+            "text": " There is nothing like this in Python."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 311.6,
+            "end": 313.40000000000003,
+            "text": " The code of the case that matches will run."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 313.40000000000003,
+            "end": 314.88000000000005,
+            "text": " So whatever code will match,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 314.88000000000005,
+            "end": 316.04,
+            "text": " the code of that case will run."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 316.04,
+            "end": 317.84000000000003,
+            "text": " You should know this thing."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 317.84,
+            "end": 320.79999999999995,
+            "text": " Now here I tell you a few miscellaneous things"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 320.79999999999995,
+            "end": 322.32,
+            "text": " which you should know."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 322.32,
+            "end": 323.4,
+            "text": " So here I have written"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 323.4,
+            "end": 325.28,
+            "text": " to implement switch case like characteristics"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 325.28,
+            "end": 326.52,
+            "text": " very similar to FL functionality,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 326.52,
+            "end": 327.59999999999997,
+            "text": " we use match case in Python."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 327.59999999999997,
+            "end": 329.84,
+            "text": " If you are coming from C, C++ or Java like language,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 329.84,
+            "end": 331.03999999999996,
+            "text": " you must have heard about it."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 331.03999999999996,
+            "end": 332.2,
+            "text": " If this is your first language,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 332.2,
+            "end": 333.56,
+            "text": " then we will talk about it."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 333.56,
+            "end": 334.76,
+            "text": " I have written here"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 334.76,
+            "end": 337.47999999999996,
+            "text": " match statement will compare a given variable's value"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 337.47999999999996,
+            "end": 338.88,
+            "text": " to different shapes"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 338.88,
+            "end": 341.03999999999996,
+            "text": " also referred to as pattern."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 341.03999999999996,
+            "end": 341.52,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 341.52,
+            "end": 343.52,
+            "text": " The main idea is to comparing a variable"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 343.52,
+            "end": 344.55999999999995,
+            "text": " with all the patterns."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 344.55999999999995,
+            "end": 345.76,
+            "text": " So all these are our patterns,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 346.48,
+            "end": 347.64,
+            "text": " and underscore default."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 347.64,
+            "end": 348.12,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 348.12,
+            "end": 349.32,
+            "text": " Now what happens here"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 349.32,
+            "end": 351.48,
+            "text": " that you can also use if else."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 351.48,
+            "end": 354.68,
+            "text": " Like I can take 4 cases of default case."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 354.68,
+            "end": 355.03999999999996,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 355.03999999999996,
+            "end": 356.03999999999996,
+            "text": " Or I also take 3."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 356.03999999999996,
+            "end": 357.44,
+            "text": " I will write here that"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 357.44,
+            "end": 361.03999999999996,
+            "text": " if x is not equal to 90."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 361.03999999999996,
+            "end": 361.52,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 361.52,
+            "end": 363.36,
+            "text": " If x is not equal to 90,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 363.36,
+            "end": 364.32,
+            "text": " then what you have to do is"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 364.32,
+            "end": 365.32,
+            "text": " print x"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 365.32,
+            "end": 367.28,
+            "text": " and write here is not 90."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 367.28,
+            "end": 370.24,
+            "text": " I will write here is not 90."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 370.24,
+            "end": 370.92,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 370.92,
+            "end": 373.59999999999997,
+            "text": " And here I will do the same thing"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 373.59999999999997,
+            "end": 375.2,
+            "text": " with is not 80."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 375.2,
+            "end": 375.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 375.8,
+            "end": 377.03999999999996,
+            "text": " And here I will write"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 377.03999999999996,
+            "end": 379.64,
+            "text": " if x is not equal to 80."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 379.64,
+            "end": 382.64,
+            "text": " And then I will do this by default."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 382.64,
+            "end": 383.12,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 383.12,
+            "end": 384.64,
+            "text": " Now I run this here"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 384.64,
+            "end": 385.84,
+            "text": " and I write here"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 385.84,
+            "end": 386.8,
+            "text": " let's say 56."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 386.8,
+            "end": 387.24,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 387.24,
+            "end": 388.12,
+            "text": " And I hit enter."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 388.12,
+            "end": 389.88,
+            "text": " So you see here 56 is not 90."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 389.88,
+            "end": 391.08,
+            "text": " Because this case is matched"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 391.08,
+            "end": 392.88,
+            "text": " so the cases below it will not match."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 392.88,
+            "end": 394.64,
+            "text": " Once a case is matched,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 394.64,
+            "end": 395.56,
+            "text": " then it is satisfied."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 395.56,
+            "end": 396.08,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 396.08,
+            "end": 397.44,
+            "text": " Same here you see"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 397.44,
+            "end": 398.68,
+            "text": " x is not equal to 80."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 398.68,
+            "end": 399.88,
+            "text": " Now let's say x is 90."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 399.88,
+            "end": 400.24,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 400.24,
+            "end": 401.24,
+            "text": " I have done 90."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 401.24,
+            "end": 403.12,
+            "text": " So it is obvious that this thing will not match."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 403.12,
+            "end": 404.2,
+            "text": " 80 will match."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 404.2,
+            "end": 404.76,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 404.88,
+            "end": 405.88,
+            "text": " I did 90."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 405.88,
+            "end": 407.03999999999996,
+            "text": " 90 is not 80."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 407.03999999999996,
+            "end": 407.32,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 407.32,
+            "end": 408.32,
+            "text": " It is written here 90."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 408.32,
+            "end": 409.03999999999996,
+            "text": " This line was printed."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 409.03999999999996,
+            "end": 409.71999999999997,
+            "text": " Is not 80."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 409.71999999999997,
+            "end": 411.24,
+            "text": " This line was printed basically."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 411.24,
+            "end": 412.12,
+            "text": " Keep in mind that the repl"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 412.12,
+            "end": 413.08,
+            "text": " you are making"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 413.08,
+            "end": 415.08,
+            "text": " should be of Python 3.10."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 415.08,
+            "end": 416.71999999999997,
+            "text": " And in the future, it will be updated."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 416.71999999999997,
+            "end": 418.8,
+            "text": " The template of the by default Python"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 418.8,
+            "end": 420.96,
+            "text": " of the repl will be updated"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 420.96,
+            "end": 422.15999999999997,
+            "text": " to Python 3.10."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 422.15999999999997,
+            "end": 423.03999999999996,
+            "text": " But until it is not done,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 423.03999999999996,
+            "end": 425.71999999999997,
+            "text": " you have to use this template"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 425.71999999999997,
+            "end": 426.64,
+            "text": " as I told you."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 426.64,
+            "end": 428.71999999999997,
+            "text": " In case you are using repl,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 428.71999999999997,
+            "end": 431.0,
+            "text": " then this thing is not applicable for VS Code."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 431.0,
+            "end": 431.64,
+            "text": " I am telling you again."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 431.64,
+            "end": 433.68,
+            "text": " If you have downloaded Python 3.10,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 434.08,
+            "end": 435.6,
+            "text": " if your old Python is installed,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 435.6,
+            "end": 436.8,
+            "text": " then you will have to update."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 436.8,
+            "end": 438.12,
+            "text": " I will tell you this Python too."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 438.12,
+            "end": 438.6,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 439.28000000000003,
+            "end": 440.52,
+            "text": " I hope you are understanding"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 440.52,
+            "end": 441.52,
+            "text": " all these things."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 441.52,
+            "end": 442.84000000000003,
+            "text": " You can run this program by default"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 442.84000000000003,
+            "end": 444.32,
+            "text": " if you want."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 444.32,
+            "end": 445.96000000000004,
+            "text": " And you will also see this thing"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 445.96000000000004,
+            "end": 447.16,
+            "text": " in this."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 447.16,
+            "end": 447.72,
+            "text": " Now look here."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 447.72,
+            "end": 448.92,
+            "text": " Default case will only be matched"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 448.92,
+            "end": 450.84000000000003,
+            "text": " if the above cases were not matched."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 450.84000000000003,
+            "end": 451.04,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 451.04,
+            "end": 452.04,
+            "text": " If no case is matched,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 452.04,
+            "end": 453.64,
+            "text": " then the default case will match."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 453.64,
+            "end": 455.12,
+            "text": " It is a kind of else."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 455.12,
+            "end": 455.4,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 455.4,
+            "end": 456.44,
+            "text": " You have read if else."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 456.44,
+            "end": 458.0,
+            "text": " Consider it as a kind of else."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 458.0,
+            "end": 458.52,
+            "text": " Okay?"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 458.52,
+            "end": 460.36,
+            "text": " So I hope you have understood"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 460.36,
+            "end": 462.8,
+            "text": " things and things are clear to you."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 462.92,
+            "end": 464.24,
+            "text": " That's all for now."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 464.24,
+            "end": 466.48,
+            "text": " If you have not accessed the playlist yet,"
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 466.48,
+            "end": 468.04,
+            "text": " then do access it."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 468.04,
+            "end": 469.84000000000003,
+            "text": " Thank you so much guys for watching this video."
+        },
+        {
+            "number": "2",
+            "title": "second",
+            "start": 469.84000000000003,
+            "end": 472.48,
+            "text": " And I will see you next time."
+        }
+    ],
+    "text": " If I want to know if you are a modern Python developer or not, then I will ask you about the match case statement first. This is a new addition in Python which has been 3.10 onwards. And match case statements make Python programming very strong. We will go to our computer screen and see what is the match case feature that was brought to improve Python. How to use it. Let's get started. So I have come to my computer screen and I have made a repl for match case. As you can see, the match case is a new addition in Python 3.10. I want to tell you this. So if you use Python's default repl in replit as of now, as of recording this video, obviously, the Python version will be updated with time in replit too. But if you see the Python version in any of your repl, I will run it in a shell in my old repl. I will run a program in the shell of the day 13 repl. I will only show you by writing Python and you will know that it is using Python 3.8. But here we need Python 3.10. So what you have to do is, I am just showing you a demo repl. I will make it outside. I will keep its name as Python demo. If you search for Python 3.10, Python 3.10 should come. It has come. Coding cactus. It is using Python 3.10. I will write Python 10 and write demo. I will make this repl. I will make this repl public. I clicked on create repl. And now you see here, as soon as I made my repl, I will run this program. It has a program written in it that will tell the version of Python. Just like this, I have made a program for match case day 16. If you are in VS code, then you do not need to worry about this. I just wanted to tell you. Now see if I come here in shell and write Python, then see Python 3.8.12. Python 3.8.12 has come here. Now what will happen is, I will close this. Now Python 16, sorry, we are using Python 3.10 in day 16. You can see here. But I don't want to write this program. I obviously want to tell you something else through this video, which is the match case statement. If you are coming from C, C++ or Java language, then you will know that there are switch case statements in it. Okay? What are switch case statements? Basically nothing. Switch case statement means that you have a variable. You are matching that variable basically. That is, if the value of the variable is 17, then what to do? What to do if it is 18? Assume that you have 4 cases. For example, that you ask someone, do you want to vote? Okay? Do you want to cast your vote? Now there are two answers to this. Either yes or no. If he is casting his vote, then you will ask him that who do you want to vote for? There are four options. Option 1, option 2, option 3, option 4. There is no option 5. So according to the option he chooses out of these four, we work according to that. Okay? So I will show you the example program very quickly. You will understand everything. Okay? Because I don't want to read out all these things here. Okay? First I want to show you the program so that you know exactly. Then things will be clear themselves. So here you see x is equal to 4. x is a variable which I want to match. I said match x. If x is 0, if case is 0, then print this. If case is 4, now I will keep it simplified. Okay? If case is 4, then print this. Case is 4. I am making the program a little simple. And if it is underscore, underscore is used for default case, then we will do this. Okay? I will erase it here. Okay? I will erase it like this. I will keep only one default case. And you see, as soon as I run this program, because x is 4, here case is 4. Okay? Now I will do one thing here. I will write int input and I will write here enter the value of x. Okay? I will run. And you see, you will be asked to enter the value of x. Suppose you wrote 5. Okay? What I will do here is that yes, I will write 5, so it will go to the default case. In fact, it printed 5. Because in the default case, we are printing the value of x. Now if I run this and make the value 0. 0. Yes. Then what will happen? x is 0. This case is matched. So in this way, we can match cases. There is a catch here about which I would like to talk. That catch is that if you are coming from a language like C, C++, if you are coming from a language like C, C++, then you should know that there is a break statement. Okay? And if you have matched any case in that case, then you have to apply a break statement. If you are coming from C, C++, then I will tell you. You will also understand about this. And if you are not coming, then there is no tension if your Python is the first language which is also here for most of the people. By any chance, you have learned C, C, C++, then you keep in mind that it is not necessary to use break statement here. There you have to use break statement. That is, if there are four cases, case 1, case 2, case 3, case 4, then if case 3 is matching, then case 4 will also match. The code inside case 4 will also run. If you have applied a break in case 3, then it will not happen. There is nothing like this in Python. The code of the case that matches will run. So whatever code will match, the code of that case will run. You should know this thing. Now here I tell you a few miscellaneous things which you should know. So here I have written to implement switch case like characteristics very similar to FL functionality, we use match case in Python. If you are coming from C, C++ or Java like language, you must have heard about it. If this is your first language, then we will talk about it. I have written here match statement will compare a given variable's value to different shapes also referred to as pattern. Okay? The main idea is to comparing a variable with all the patterns. So all these are our patterns, and underscore default. Okay? Now what happens here that you can also use if else. Like I can take 4 cases of default case. Okay? Or I also take 3. I will write here that if x is not equal to 90. Okay? If x is not equal to 90, then what you have to do is print x and write here is not 90. I will write here is not 90. Okay? And here I will do the same thing with is not 80. Okay? And here I will write if x is not equal to 80. And then I will do this by default. Okay? Now I run this here and I write here let's say 56. Okay? And I hit enter. So you see here 56 is not 90. Because this case is matched so the cases below it will not match. Once a case is matched, then it is satisfied. Okay? Same here you see x is not equal to 80. Now let's say x is 90. Okay? I have done 90. So it is obvious that this thing will not match. 80 will match. Okay? I did 90. 90 is not 80. Okay? It is written here 90. This line was printed. Is not 80. This line was printed basically. Keep in mind that the repl you are making should be of Python 3.10. And in the future, it will be updated. The template of the by default Python of the repl will be updated to Python 3.10. But until it is not done, you have to use this template as I told you. In case you are using repl, then this thing is not applicable for VS Code. I am telling you again. If you have downloaded Python 3.10, if your old Python is installed, then you will have to update. I will tell you this Python too. Okay? I hope you are understanding all these things. You can run this program by default if you want. And you will also see this thing in this. Now look here. Default case will only be matched if the above cases were not matched. Okay? If no case is matched, then the default case will match. It is a kind of else. Okay? You have read if else. Consider it as a kind of else. Okay? So I hope you have understood things and things are clear to you. That's all for now. If you have not accessed the playlist yet, then do access it. Thank you so much guys for watching this video. And I will see you next time."
+}
